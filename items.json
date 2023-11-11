@@ -6,7 +6,7 @@
       "age": 1600,
       "isFriend": true,
       "monsterType": "Vampire",
-      "imageURL": "https://i.ibb.co/qDWDnjW/draculaura.webp"
+      "picture": "https://i.ibb.co/qDWDnjW/draculaura.webp"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "age": 1500,
       "isFriend": true,
       "monsterType": "Angel",
-      "imageURL": "https://i.ibb.co/D4HVSnS/cupid.webp"
+      "picture": "https://i.ibb.co/D4HVSnS/cupid.webp"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "age": 200,
       "isFriend": true,
       "monsterType": "Sea Monster",
-      "imageURL": "https://i.ibb.co/RzVJ2zr/lagoona.webp"
+      "picture": "https://i.ibb.co/RzVJ2zr/lagoona.webp"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "age": 16,
       "isFriend": false,
       "monsterType": "Werecat",
-      "imageURL": "https://i.ibb.co/pbFFDsk/twins.webp"
+      "picture": "https://i.ibb.co/pbFFDsk/twins.webp"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "age": 800,
       "isFriend": true,
       "monsterType": "Vampire",
-      "imageURL": "https://i.ibb.co/44V2GP2/elissabat.webp"
+      "picture": "https://i.ibb.co/44V2GP2/elissabat.webp"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "age": 17,
       "isFriend": false,
       "monsterType": "Werecat",
-      "imageURL": "https://i.ibb.co/Mnkc0tx/toralei.webp"
+      "picture": "https://i.ibb.co/Mnkc0tx/toralei.webp"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "age": 5841,
       "isFriend": false,
       "monsterType": "Mummy",
-      "imageURL": "https://i.ibb.co/fCTZdX8/cleo.webp"
+      "picture": "https://i.ibb.co/fCTZdX8/cleo.webp"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "age": 1600,
       "isFriend": true,
       "monsterType": "Yeti",
-      "imageURL": "https://i.ibb.co/DCxYQFm/abbey.webp"
+      "picture": "https://i.ibb.co/DCxYQFm/abbey.webp"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "age": 1408,
       "isFriend": true,
       "monsterType": "Ghost",
-      "imageURL": "https://i.ibb.co/2htSwTH/spectra.webp"
+      "picture": "https://i.ibb.co/2htSwTH/spectra.webp"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "age": 15,
       "isFriend": true,
       "monsterType": "Werewolf",
-      "imageURL": "https://i.ibb.co/h2rwzrJ/clawdeen.webp"
+      "picture": "https://i.ibb.co/h2rwzrJ/clawdeen.webp"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "age": 8050,
       "isFriend": false,
       "monsterType": "Mummy",
-      "imageURL": "https://i.ibb.co/HNfYMrV/nefera.png"
+      "picture": "https://i.ibb.co/HNfYMrV/nefera.png"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "age": 1500,
       "isFriend": true,
       "monsterType": "Frankenstein",
-      "imageURL": "https://i.ibb.co/6mxcMWV/frankie.webp"
+      "picture": "https://i.ibb.co/6mxcMWV/frankie.webp"
     }
   ]
 }
